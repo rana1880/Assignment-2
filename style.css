@@ -1,0 +1,212 @@
+body{
+    background-color: rgb(245, 242, 239);
+}
+.navbar{
+    height: 50px;
+    width: 1488px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.nav-image img{
+    position: absolute;
+    height: 100px;
+    width: 150px;
+    bottom: 485px;
+    left: 120px;
+}
+.nav-icons{
+    margin-left: 280px;
+    display: flex;
+    gap: 35px;
+}
+.nav-icons span{
+    margin-top:13px;
+    font-size: 33px;
+}
+.nav-icons span:hover{
+    cursor: pointer;
+    height: 35px;
+    width: 40px;
+    background-color: rgb(243, 246, 247);
+}
+.nav-world input{
+    position: absolute;
+    top: 13px;
+    left: 620px;
+    height: 35px;
+    width: 350px;
+}
+.nav-world button{
+    position: absolute;
+    left: 1009px;
+    top: 13px;
+    height: 40px;
+    width: 115px;
+}
+.nav-world a{
+    background-color: black;
+    /* border-radius: 40px ; */
+    position: absolute;
+    left: 1150px;
+    top: 19px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+
+}
+.nav-world select{
+  position: absolute;
+  left: 1210px;
+  top: 17px;
+  width: 200px;
+  height: 30px;
+  background-color: red;
+  color: #fff;
+  border-radius: 20px;
+  text-decoration: none;
+}
+.left-bar ul{
+  position: absolute;
+  left: 120px;
+  list-style-type: none;
+  font-size: 18px;
+  /* list-style:none; */
+  padding: 0px;
+  justify-content: space-between;
+}
+.left-bar li{
+  padding:12px 25px;
+}
+.left-bar li:hover{
+  cursor: pointer;
+    height: 35px;
+    width: 110px;
+    background-color: rgb(228, 239, 239);
+}
+.comment-section{
+  height: 100px;
+  width: 650px;
+  margin-left: 340px;
+  background-color: rgb(233, 226, 240);
+}
+.comment-section .container .comment{
+  width: 550px;
+  height: 25px;
+  margin-left: 70px;
+  margin-top: 19px;
+  border-radius: 20px;
+}
+.comment-section .container a{
+  background-color: black;
+    /* border-radius: 40px ; */
+    position: absolute;
+    left: 370px;
+    top: 110px;
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+    text-decoration: none;
+}
+.comment-section .container ul{
+  list-style-type: none;
+  display: flex;
+}
+.comment-section .container ul li{
+  padding:10px 85px;
+  
+}
+.post-section{
+  height: 700px;
+  width: 650px;
+  margin-left: 340px;
+  margin-top: 25px;
+  background-color: rgb(233, 226, 240);
+}
+.post-section .container img{
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+  margin-top: 14px;
+}
+.post-section .container p{
+  position: absolute;
+  top: 220px;
+  left: 410px;
+  font-size: 16px;
+  font-weight:800;
+}
+.post-section .container .sponsored{
+  position: absolute;
+  top: 245px;
+  font-size: 12px;
+  color: gray;
+}
+.post-section .container h3{
+  margin-left: 25px;
+}
+.post-section .container h3:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.post-section .container .build{
+  position: absolute;
+  top: 310px;
+  font-size: 17px;
+  color: rgb(83, 73, 73);
+  left: 365px;
+}
+.post-section .container .free{
+  position: absolute;
+  top: 400px;
+  height: 400px;
+  width: 650px;
+  left: 328px;
+}
+.post-section .container button{
+  position: absolute;
+  top: 850px;
+  width: 650px;
+  height: 40px;
+  color: #3d3535;
+  font-size: 18px;
+  font-family: cursive;
+}
+
+/* navbar icons*/
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
